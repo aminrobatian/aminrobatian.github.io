@@ -52,7 +52,8 @@ resume_social_links:
   resume_linkedin_url:          "https://linkedin.com/in/aminrobatian"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://scholar.google.com/citations?hl=en&user=0FC18nYAAAAJ"
+  # resume_medium_url:            ""
+  resume_google_scholar_url:            "https://scholar.google.com/citations?hl=en&user=0FC18nYAAAAJ"
 resume_print_social_links:      true
 
 # Design settings
