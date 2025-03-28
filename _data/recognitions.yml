@@ -1,10 +1,20 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Top 1% Nationwide in University Entrance Exam (KONKOOR)
+  organization: Iranian Ministry of Science
+  year: '2013'
+  summary: Achieved top 1% ranking in the national entrance exam for undergraduate studies.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: 1st Rank in B.Sc. Graduates – Communication Branch
+  organization: Yazd University
+  year: '2017'
+  summary: Graduated top of class with GPA 17.88/20.
+
+- award: 24th Rank in M.Sc. Nationwide University Entrance Exam
+  organization: Iranian Ministry of Science
+  year: '2018'
+  summary: Ranked 24th nationwide in communications branch for M.Sc. entrance exam.
+
+- award: 46th Rank in Ph.D. Nationwide University Entrance Exam
+  organization: Iranian Ministry of Science
+  year: '2021'
+  summary: Ranked 46th nationwide in communications branch for Ph.D. entrance exam.
