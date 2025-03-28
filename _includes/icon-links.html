@@ -46,7 +46,9 @@
 
   <!-- Google Scholar link -->
   {% if site.resume_social_links.resume_google_scholar_url %}
-  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_google_scholar_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-scholar.html %}</a></li>
+  <a href="{{ site.resume_social_links.resume_google_scholar_url }}" target="_blank" class="icon-link google-scholar">
+    <img src="/images/google-scholar.svg" alt="Google Scholar" style="height:20px; vertical-align:middle;" />
+  </a>
   {% endif %}
 
 </ul>
