@@ -47,7 +47,10 @@
   <!-- Google Scholar link -->
   {% if site.resume_social_links.resume_google_scholar_url %}
   <a href="{{ site.resume_social_links.resume_google_scholar_url }}" target="_blank" class="icon-link" title="Google Scholar">
-    <img src="/images/google-scholar.svg" alt="Google Scholar" style="height:20px; vertical-align:middle;" />
+    <span class="fa-stack fa-lg" style="font-size: 1.25em;">
+      <i class="fas fa-circle fa-stack-2x" style="color: #ddd;"></i>
+      <img src="/images/google-scholar.svg" alt="Google Scholar" style="height: 0.95em; position: absolute; top: 6px; left: 6px;" />
+    </span>
   </a>
   {% endif %}
 
