@@ -1,12 +1,18 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Programming Languages
+  description: Python, Matlab, C/C++/C#, Java, LaTeX
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Developer Tools
+  description: GitHub, VS Code, Docker, Matlab Simulink, CodeVisionAVR, Atmel Studio, Proteus
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: AI Frameworks & Libraries
+  description: PyTorch, TensorFlow, Transformers, OpenCV, ONNX, TensorRT, scikit-learn, NumPy, pandas, Beautiful Soup, PyQt, NeMo, OpenMMLab, Gradio, LLaMA-Factory, YOLO, OpenAI API
+
+- skill: AI Tools
+  description: LM Studio, Ollama, Label Studio, Open WebUI
+
+- skill: Platforms
+  description: Windows, Linux, Android
+
+- skill: Embedded Systems
+  description: AVR Microcontrollers, FPGA
