@@ -1,13 +1,44 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+# - degree: Bachelor of Arts, Human Rights
+#   uni: Yale University
+#   year: 2004 &mdash; 2008
+#   awards:
+#     - award: Summa Cumme Laude graduate
+#   summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+# - degree: High School Diploma
+#   uni: Springfield High School
+#   year: 2004
+#   award: Most likely to succeed
+#   summary: You can choose to have either a single or multiple awards
+
+
+- uni: Sharif University of Technology
+  degree: Ph.D. in Electrical Engineering – Communication Systems
+  year: Sep. 2021 – Present
+  # award: "GPA: 18.24/20"
+  awards:
+  - award: "Dissertation: “Design a Statistically Governable Language Model for Improving Verbal Consistency of a Given Persian Speech Recognition System”"
+  - award: "Supervisor: Dr. Iman Gholampour"
+  - award: "Co-Supervisor: Dr. Shahrokh Ghaemmaghami"
+  - award: "Advisor: Dr. Sajjad Amini"
+  summary: ""
+
+- uni: Sharif University of Technology
+  degree: M.Sc. in Electrical Engineering – Communication Systems
+  year: Sep. 2018 – Mar. 2021
+  # award: "GPA: 18.43/20"
+  awards:
+  - award: "Dissertation: “Analysis of UAV-based FSO Communication System Considering Pointing Error and Atmospheric Turbulence”"
+  - award: "Supervisor: Dr. Jawad A. Salehi"
+  - award: "Co-Supervisor: Dr. Hamzeh Beyranvand"
+  summary: ""
+
+- uni: Yazd University
+  degree: B.Sc. in Electrical Engineering – Communications
+  year: Sep. 2013 – Sep. 2017
+  # award: "GPA: 17.88/20"
+  awards:
+  - award: "Dissertation: “Design and Implementation of Android Applications for Measuring and Drawing Coverage of BTS/Wi-Fi Nodes and Estimation of a Mobile Phone’s Position based on Coordinates of BTSs.”"
+  - award: "Supervisor: Dr. Reza Saadat"
+  summary: ""
